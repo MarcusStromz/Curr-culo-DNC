@@ -1,0 +1,31 @@
+#header {
+    background-color: aqua;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "Hubballi", sans-serif;
+    text-transform: uppercase;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+}
+
+#nameAndTitle {
+    background-color: white;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#nameAndTitle h1, h2 {
+    margin: 0;
+}
+
+#contact {
+    list-style-type: none;
+}
+
+#contact i {
+    width: 30px;
+    color: aqua;
+}
